@@ -1,0 +1,14 @@
+.swiper {
+    width: 780px;
+    height: 489px;
+    margin-top: 190px;
+}
+
+body {
+    background: rgb(0, 91, 255);
+    background: linear-gradient(90deg, rgba(0, 91, 255, 1) 100%, rgba(0, 255, 85, 0) 200%);
+}
+
+.swiper-slide img {
+    width: 100%;
+}
